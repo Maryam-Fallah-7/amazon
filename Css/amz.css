@@ -1,0 +1,36 @@
+span{
+    color: rgba(221, 203, 203, 0.747);
+    display: block;
+    font-size: 15px;
+}
+.location li{
+    display:inline-block;
+}
+.search-input{
+   width: 70% !important;
+}
+.country{
+    width:1px;
+}
+.sign{
+    display:inline;
+}
+.s{
+    text-align: center;
+    margin: 20px;
+    padding: 20px;
+}
+.h{
+    background-color: rgb(4, 4, 44);
+    color: white;
+    text-align: center;
+}
+p{
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+}
+.foo{
+    background-color: black;
+    color: white;
+}
